@@ -20,3 +20,7 @@ Una vez observado cada comportamiento y detalle sobre cómo influyen las activid
 - Predicción de emoción.
 - Predicción de cantidad de actividades.
 - Recomendación de actividades ante situaciones adversas.
+
+---
+
+El resumen de los resultados del proyecto se pueden ver en [/docs/docs.md](/docs/docs.md) al finalizar el mismo.
