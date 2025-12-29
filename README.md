@@ -23,4 +23,4 @@ Una vez observado cada comportamiento y detalle sobre cómo influyen las activid
 
 ---
 
-El resumen de los resultados del proyecto se pueden ver en [/docs/docs_es.ipynb](/docs/docs.md) al finalizar el mismo.
+El resumen de los resultados del proyecto se pueden ver en [/docs/docs_es.ipynb](/docs/docs_es.ipynb) al finalizar el mismo.
